@@ -1,15 +1,17 @@
 var myLinks = [
 "http://mp.musz.info",
 "http://cv.musz.info",
-"http://gfivyrc.s602.xrea.com",
-"http://redp.s1009.xrea.com",
-"http://it.alrau.com",
 "http://it.ivyrc.com",  
 "http://ce.ivyrc.com",
 "http://fappening.ivyrc.com",
 "http://br.ivyrc.com", 
+"http://it.alrau.com",
+"http://gfivyrc.s602.xrea.com",
+"http://redp.s1009.xrea.com",
 "http://tnayr.s1007.xrea.com",
 "http://lrmusz.s1007.xrea.com",
+'http://indoviral.doorblog.jp', 
+'http://myrf.doorblog.jp', 
 "http://celebfq.blogspot.com/?m=1", 
 "https://dlmusz.blogspot.com/?m=1", 
 "https://tntita.blogspot.com/?m=1", 
@@ -31,7 +33,13 @@ var myLinks = [
 "https://waremp3.blogspot.com/?m=1",
 "https://celebruu.blogspot.com/?m=1",
 "https://meggiita.blogspot.com/?m=1",
-"https://kbjblogmusz.blogspot.com/?m=1"
+"https://kbjblogmusz.blogspot.com/?m=1",
+'http://uks.starfree.jp',
+'http://myrs.starfree.jp',
+'http://osak.starfree.jp',
+'http://swpr.starfree.jp',
+'http://ryc.starfree.jp',
+'http://cli.starfree.jp'
 ]
 var myLinks = myLinks.sort( () => (Math.random() - .5) ).slice(0, 10);
 function openMultipleLinks(links) {
