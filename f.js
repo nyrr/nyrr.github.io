@@ -23,8 +23,6 @@ var myLinks = [
 "https://wissindo.blogspot.com/?m=1", 
 "https://nycmetropolitan.blogspot.com/?m=1", 
 "https://tnayrc.blogspot.com/?m=1", 
-"http://indoviral.doorblog.jp", 
-"http://myrf.doorblog.jp", 
 "https://spichen.blogspot.com/?m=1", 
 "https://2danbi.blogspot.com/?m=1", 
 "https://celebalt.blogspot.com/?m=1", 
