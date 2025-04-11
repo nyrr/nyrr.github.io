@@ -37,7 +37,11 @@ var myLinks = [
 'http://osak.starfree.jp',
 'http://swpr.starfree.jp',
 'http://ryc.starfree.jp',
-'http://cli.starfree.jp'
+'http://cli.starfree.jp',
+'http://obr.starfree.jp',
+'http://yis.starfree.jp',
+'https://ny.ycyva.com',
+'https://jc.ycyva.com'
 ]
 var myLinks = myLinks.sort( () => (Math.random() - .5) ).slice(0, 10);
 function openMultipleLinks(links) {
