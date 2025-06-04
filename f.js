@@ -32,14 +32,9 @@ var myLinks = [
 "https://celebruu.blogspot.com/?m=1",
 "https://meggiita.blogspot.com/?m=1",
 "https://kbjblogmusz.blogspot.com/?m=1",
-'http://uks.starfree.jp',
-'http://myrs.starfree.jp',
-'http://osak.starfree.jp',
-'http://swpr.starfree.jp',
-'http://ryc.starfree.jp',
-'http://cli.starfree.jp',
-'http://obr.starfree.jp',
-'http://yis.starfree.jp',
+'https://sw.ycyva.com',
+'https://ob.ycyva.com',
+'https://ys.ycyva.com',
 'https://ny.ycyva.com',
 'https://jc.ycyva.com'
 ]
