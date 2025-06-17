@@ -36,7 +36,9 @@ var myLinks = [
 'https://ob.ycyva.com',
 'https://ys.ycyva.com',
 'https://ny.ycyva.com',
-'https://jc.ycyva.com'
+'https://jc.ycyva.com',
+'https://www.profitableratecpm.com/azv6thdcy?key=ac69989277ddbb59deee85a5d19ca6c9',
+'https://www.profitableratecpm.com/cd4nm9df?key=79e17d49c524dcf3dcc3ded87245a2a8'
 ]
 var myLinks1 = myLinks.sort( () => (Math.random() - .5) ).slice(0, 10);
 var myLinks2 = myLinks.sort( () => (Math.random() - .5) ).slice(0, 10);
