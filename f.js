@@ -3,7 +3,7 @@ var myLinks = [
 "http://ce.ivyrc.com",
 "http://fappening.ivyrc.com",
 "http://br.ivyrc.com", 
-"https://indoviral.doorblog.jp", 
+"https://treatjayworkman.com/qxb31mam?key=994d32cf6900a7ae328e210e9afb8c6a", 
 "https://myrf.doorblog.jp", 
 "https://dlmusz.blogspot.com/?m=1", 
 "https://tntita.blogspot.com/?m=1", 
